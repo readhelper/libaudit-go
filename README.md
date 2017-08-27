@@ -2,8 +2,8 @@
 
 libaudit-go is a go package for interfacing with Linux audit.
 
-[![Build Status](https://travis-ci.org/mozilla/libaudit-go.svg?branch=master)](https://travis-ci.org/mozilla/libaudit-go)
-[![Go Report Card](https://goreportcard.com/badge/mozilla/libaudit-go "Go Report Card")](https://goreportcard.com/report/mozilla/libaudit-go)
+[![Build Status](https://travis-ci.org/readhelper/libaudit-go.svg?branch=master)](https://travis-ci.org/readhelper/libaudit-go)
+[![Go Report Card](https://goreportcard.com/badge/readhelper/libaudit-go "Go Report Card")](https://goreportcard.com/report/readhelper/libaudit-go)
 
 libaudit-go is a pure Go client library for interfacing with the Linux auditing framework. It provides functions
 to interact with the auditing subsystems over Netlink, including controlling the rule set and obtaining/interpreting
