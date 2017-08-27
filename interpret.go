@@ -16,7 +16,7 @@ import (
 	"syscall"
 
 	"github.com/lunixbochs/struc"
-	"github.com/mozilla/libaudit-go/headers"
+	"github.com/readhelper/libaudit-go/headers"
 )
 
 // fieldType denotes the integer values of various fields occuring in audit messages
