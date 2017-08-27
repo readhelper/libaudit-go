@@ -19,7 +19,7 @@ var expectedRules = []string{
 	"-a always,exit -S clone,fork,vfork",
 	"-a always,exit -S adjtimex,settimeofday -F key=time-change",
 	"-a always,exit-F arch=b64 -S rename,renameat -F auid>=1000 -F key=rename",
-	"-a exclude,always -F msgtype=USER_LOGIN",
+	//"-a exclude,always -F msgtype=USER_LOGIN",
 }
 
 func TestSetRules(t *testing.T) {
