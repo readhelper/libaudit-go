@@ -1,4 +1,4 @@
-language: go
+zlanguage: go
 dist: trusty
 sudo: required
 notifications:
