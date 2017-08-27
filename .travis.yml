@@ -1,5 +1,6 @@
 zlanguage: go
 dist: trusty
+go_import_path: github.com/readhelper/libaudit-go
 sudo: required
 notifications:
     email: false
