@@ -10,6 +10,7 @@ before_install:
     - sudo apt-get -qq update
     - sudo apt-get install -y auditd
     - go get -v github.com/lunixbochs/struc
+    - go get -v golang.org/x/tools/cmd/stringer
 
 #install:
 #  - go get -v ./...
